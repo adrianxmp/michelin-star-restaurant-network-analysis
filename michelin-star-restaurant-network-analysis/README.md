@@ -42,6 +42,9 @@ This representation allows us to study cuisine hubs, clustering, community struc
 ```text
 michelin-star-restaurant-network-analysis/
 │
+├── code/
+│   └── main.py
+│
 ├── data/
 │   ├── raw/
 │   │   └── michelin_my_maps.csv
@@ -49,15 +52,13 @@ michelin-star-restaurant-network-analysis/
 │       ├── nodes.csv
 │       └── edges.csv
 │
-├── code/
-│   └── main.py
+├── figures/
+│   ├── full_network.png
+│   └── filtered_network.png
 │
 ├── gephi/
 │   └── Michelin1.gephi
 │
-├── figures/
-│   ├── full_network.png
-│   └── filtered_network.png
 │
 ├── README.md
 ├── requirements.txt
