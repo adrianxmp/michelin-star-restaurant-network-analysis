@@ -40,7 +40,7 @@ This representation allows us to study cuisine hubs, clustering, community struc
 ## Repository Structure
 
 ```text
-michelin-network-analysis/
+michelin-star-restaurant-network-analysis/
 │
 ├── data/
 │   ├── raw/
