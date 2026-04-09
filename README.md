@@ -22,11 +22,11 @@ This allows us to analyze:
 
 ### Full Network
 
-![Full Network](Visualization #1.png)
+![Full Network](figures/full_network.png)
 
 ### Filtered Network (Core Structure)
 
-![Filtered Network](Visualization #2.png)
+![Filtered Network](figures/filtered_network.png)
 
 ---
 
