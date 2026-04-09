@@ -38,7 +38,7 @@ michelin-network-analysis/
 ├── requirements.txt
 └── .gitignore
 
-Data
+## Data
 
 The raw dataset was based on the Michelin Guide Restaurants dataset from Kaggle.
 
