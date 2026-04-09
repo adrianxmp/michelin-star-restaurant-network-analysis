@@ -22,11 +22,11 @@ This allows us to analyze:
 
 ### Full Network
 
-![Full Network](figures/full_network.png)
+![Full Network](michelin-star-restaurant-network-analysis/figures/full_network.png)
 
 ### Filtered Network (Core Structure)
 
-![Filtered Network](figures/filtered_network.png)
+![Filtered Network](michelin-star-restaurant-network-analysis/figures/filtered_network.png)
 
 ---
 
