@@ -25,7 +25,7 @@ This allows us to analyze:
 
 # Michelin Network Analysis
 
-This repository contains the code, processed data, Gephi project files, and visualizations used for our CPSC 572 network science project on Michelin-starred restaurants.
+This repository contains the code, processed data, Gephi project files, and visualizations used for our network analysis on Michelin-starred restaurants.
 
 ## Project Overview
 
