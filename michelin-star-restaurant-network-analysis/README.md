@@ -187,4 +187,4 @@ This repository is designed to support reproducibility of the project results. A
 
 ## Author
 
-Created as part of a CPSC 572 Network Science course project.
+Created as part of a CPSC 572 project.
