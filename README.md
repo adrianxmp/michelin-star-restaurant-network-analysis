@@ -18,6 +18,16 @@ This allows us to analyze:
 - How restaurants cluster based on cuisine
 - The overall structure and connectivity of the network
 
+## Network Visualizations
+
+### Full Network
+
+![Full Network](Visualization #1.png)
+
+### Filtered Network (Core Structure)
+
+![Filtered Network](Visualization #2.png)
+
 ---
 
 ## Repository Structure
